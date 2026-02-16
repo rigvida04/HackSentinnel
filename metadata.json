@@ -1,0 +1,7 @@
+{
+  "name": "Hack Sentinel",
+  "description": "An advanced port monitoring and vulnerability detection system with AI-powered security research.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
